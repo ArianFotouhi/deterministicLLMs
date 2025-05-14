@@ -1,8 +1,7 @@
----
 
 ## 📄 ** Using Open Source LLMs via Hugging Face for Deterministic or Stochastic Outputs**
 
-```markdown
+
 # 🧪 Controlling Determinism in Open-Source LLMs via Hugging Face
 
 This guide shows how to run open-source LLMs with deterministic or non-deterministic behavior using the 🤗 Hugging Face Transformers library.
