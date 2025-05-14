@@ -4,7 +4,7 @@ Great! Below are two `README.md` files based on your request:
 
 ## 📄 **README 1 – Theory: Determinism in LLMs and How Parameters Affect It**
 
-````markdown
+
 # 🤖 Determinism in Large Language Models: Theory and Parameters
 
 Large Language Models (LLMs) are typically **non-deterministic** during inference, meaning the same input prompt can yield different outputs. This is due to the use of **probabilistic sampling techniques** during text generation.
