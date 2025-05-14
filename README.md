@@ -4,7 +4,7 @@ Large Language Models (LLMs) are typically **non-deterministic** during inferenc
 
 This document explains **which parameters control determinism**, their theoretical impact, and how you can manipulate them for **predictable or diverse results**.
 
----
+
 
 ## 🧠 What Is Determinism in LLMs?
 
