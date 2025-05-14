@@ -64,7 +64,7 @@ outputs = model.generate(
 
 ---
 
-## ✅ TL;DR: Making LLMs Deterministic
+## Making LLMs Deterministic
 
 1. Set `do_sample=False`
 2. Set `temperature=0.0`
