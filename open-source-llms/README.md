@@ -1,5 +1,5 @@
 
-## 📄 ** Using Open Source LLMs via Hugging Face for Deterministic or Stochastic Outputs**
+## Using Open Source LLMs via Hugging Face for Deterministic or Stochastic Outputs**
 
 
 # 🧪 Controlling Determinism in Open-Source LLMs via Hugging Face
