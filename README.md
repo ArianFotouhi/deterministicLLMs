@@ -1,8 +1,4 @@
-Great! Below are two `README.md` files based on your request:
-
----
-
-## 📄 **README 1 – Theory: Determinism in LLMs and How Parameters Affect It**
+# README 1 – Theory: Determinism in LLMs and How Parameters Affect It
 
 
 # 🤖 Determinism in Large Language Models: Theory and Parameters
