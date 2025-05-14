@@ -110,9 +110,3 @@ outputs = model.generate(
 
 This document is provided under the MIT License.
 
-```
-
----
-
-Let me know if you’d like these files zipped, or want them tailored for a specific model like LLaMA 3, Mistral, or another backend like `llama.cpp`.
-```
